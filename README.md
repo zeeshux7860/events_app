@@ -1,5 +1,8 @@
 # Firexcode Tutorial = Event App
 
+![thumbnail](https://user-images.githubusercontent.com/45489310/115113050-f3954b80-9fa5-11eb-860c-57e2d75443bc.PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
